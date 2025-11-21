@@ -1,0 +1,17 @@
+# ml-automated-workflow
+ml projecte with automated data pipeline
+
+---
+title: DrugClassifier
+emoji: 🏢
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: 5.49.1
+app_file: app.py
+pinned: false
+license: apache-2.0
+short_description: ml model which classifies type of drug group
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
