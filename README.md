@@ -1,5 +1,5 @@
 # ml-automated-workflow
-ml projecte with automated data pipeline
+ml project with automated data pipeline
 
 ---
 title: DrugClassifier
